@@ -2,7 +2,8 @@
 Study Note, Lab Code, Summary of MIT6.824
 
 ## 6.824: Distributed Systems 
-[Main Page](https://pdos.csail.mit.edu/6.824/index.html)
+[Main Page](https://pdos.csail.mit.edu/6.824/index.html) 
+
 [Spring2020](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 - [ ] Lab 1: MapReduce    
