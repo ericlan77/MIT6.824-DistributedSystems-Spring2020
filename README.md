@@ -5,6 +5,10 @@ Study Note, Lab Code, Summary of MIT6.824
 
 [Spring2020](https://pdos.csail.mit.edu/6.824/schedule.html)
 
+## Course Note
+
+--
+
 ## Labs
 - [ ] Lab 1: MapReduce    
 - [ ] Lab 2: Raft      
