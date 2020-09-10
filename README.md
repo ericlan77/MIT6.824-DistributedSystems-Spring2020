@@ -14,3 +14,4 @@ Study Note, Lab Code, Summary of MIT6.824
 ## Reference:
 1. [Student Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
 2. [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/)
+3. 关于Raft的[动画讲解](http://raft.taillog.cn/)
